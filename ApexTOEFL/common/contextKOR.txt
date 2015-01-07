@@ -1,0 +1,112 @@
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Style-Type" type="text/css">
+	<meta name="keywords" content="영어 학원 남천동 회화 영작문 부산 과외 강사 토플 텝스 토익 펠트 토셀 english hagweon lesson teacher private tutor toefl teps toeic pelt tosel sat ap ssat">
+	<base href="http://www.apextoefl.com/" target=_top>
+    <link rel=stylesheet type="text/css" href="common/apextoefl.css">
+    <link rel="stylesheet" type="text/css" href="common/cssverticalmenu.css">
+    <script type="text/javascript" src="js/cssverticalmenu.js"></script>
+<!-- png transparency fix for IE 5.5 and IE 6
+	<script type="text/javascript" src="js/iepngfix_tilebg.js"></script> 
+    <style type="text/css">
+		.png { behavior: url(iepngfix.htc) }
+	</style>
+-->
+	<script language="JavaScript">
+	<!-- hide from non JavaScript Browsers
+	
+	Image1 = new Image(1280,200)
+	Image1.src = "common/AlpsLogo.jpg"
+
+	Image2 = new Image(12,12)
+	Image2.src = "common/arrow.gif"
+	
+	Image3 = new Image(1,1)
+	Image3.src = "common/blank.gif"
+	
+	Image4= new Image(150,995)
+	Image4.src = "common/MeadowLeft.jpg"
+	
+	Image5 = new Image(1280,995)
+	Image5.src = "common/MeadowRight.jpg"
+	
+	Image6 = new Image(1,50)
+	Image6.src = "common/MenuButton.gif"
+	
+	Image7 = new Image(1,50)
+	Image7.src = "common/MenuButtonPushed.gif"
+	
+	Image8 = new Image(2000,995)
+	Image8.src = "common/SlidingWhiteBackground.gif"
+
+	// End Hiding -->
+	</SCRIPT>
+</head>
+<body rightmargin="0" leftmargin="0" style="
+	max-width:1280px; 
+	margin:auto; 
+	text-align:center; 
+	background-color:#003399;">
+<div style="
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1280px;
+	width: expression(document.body.clientWidth > 1281? '1280px':'auto');
+">
+    <div style="
+    	zz-index:1; 
+        top:0px; 
+        left:0px; 
+        background-image:url(common/AlpsLogo.jpg); 
+    	background-repeat:no-repeat; 
+        height:200px; 
+        width:100%;
+    ">
+    </div>
+    <div style="
+    	z-index:2;
+        background-image:url(common/MeadowRight.jpg); 
+    	background-repeat:no-repeat;
+        height: 995px;
+        width:100%;
+    ">
+		<div style="
+			z-index:3;
+			margin-right:100px;
+			background-image:url(common/SlidingWhiteBackground.gif);
+			background-repeat:no-repeat;
+			background-position: right top;
+		">
+			<div id=MeadowLeftDiv style="
+				z-index:4;
+				position:relative;
+				height:995px;
+				background-image:url(common/MeadowLeft.jpg);
+				background-repeat:no-repeat;
+			">
+				<div id="MainContentDiv" style="
+					z-index:10;
+					position:relative;
+					top:20px;
+					margin-left:110px;
+					margin-right:10px;
+					margin-top:0px;
+					padding-top:20px;
+					min-width:788px;
+					width:auto;
+				">
+	<!--[if lte IE 7]>
+		<script type="text/javascript">
+			document.getElementById('MainContentDiv').style.paddingTop="25px";
+		</script>
+	<![endif]-->
+	<!--[if IE 6]>
+		<script type="text/javascript">
+			document.getElementById('MainContentDiv').style.setExpression("width","document.body.clientWidth < 1011? '789px': 'auto'");
+		</script>
+	<![endif]-->
+	<!--[if lt IE 6]>
+		<script type="text/javascript">
+			document.getElementById('MainContentDiv').style.setExpression("width","document.body.clientWidth < 1013? '791px': 'auto'");
+		</script>
+	<![endif]-->
+

@@ -1,0 +1,112 @@
+@charset "utf-8";
+/***********************************************/
+/* General                                     */
+/***********************************************/
+
+
+body{
+	margin-left: 0; 
+	margin-top: 0;
+	background-color: white;
+	font:12px Arial, Helvetica, Geneva, Swiss, SunSans-Regular, Verdana, sans-serif, "돋움", Dotum, DotumChe; 
+	line-height:1.5em;
+	color:#383d41;
+	}
+h1, h2, h3 {
+	font-family: HYHeadline-Medium, Arial Black, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, Verdana, sans-serif, "돋움", Dotum, DotumChe;
+	color:#006600;
+	}
+.english {
+	font-family: Arial Black, Arial;
+	font-weight: normal;
+	}
+h1{
+	font-size: 300%;
+	margin-top: 0px;
+	}
+h2{
+	font-size: 200%;
+	}
+h3{
+	font-size: 100%;
+	}
+a{
+	text-decoration: none;
+	}
+a:hover{
+	color: orange;
+	}
+a:active{
+	color: orange;
+	}
+table{
+	}
+td {
+	text-align:left;
+	vertical-align:top;
+	padding:5px;
+	}
+td.schedule {
+	text-align:center;
+	vertical-align:middle;
+	font-weight:bold;
+	color:#000000;
+	border-bottom:thin solid #CCCCCC;
+	border-right:thin solid #CCCCCC;
+	}
+td.scheduleBooked {
+	text-align:center;
+	vertical-align:middle;
+	color:#000000;
+	background-color: #ddffdd;
+	border-bottom:thin solid #CCCCCC;
+	border-right:thin solid #CCCCCC;
+	}
+img{border:none;
+	}
+img.inline { 
+	background: #e5e5e5; 
+	padding: 5px; 
+	margin: 0.5em 15px 0.5em 0; 
+	border: 1px solid #b2b2b2; 
+	}
+img.left { 
+	background: #e5e5e5; 
+	padding: 5px; 
+	margin: 0.5em 15px 0.5em 0; 
+	border: 1px solid #b2b2b2; 
+	float: left; 
+	clear: left; }
+img.right { 
+	background: #e5e5e5; 
+	padding: 5px; 
+	margin: 0.5em 0 0.5em 15px; 
+	border: 1px solid #b2b2b2; 
+	float: right; 
+	clear: right; }
+
+	
+/***********************************************/
+/* Rule                                        */
+/***********************************************/
+
+tr.ruleTop{
+	font-size: 12pt;
+	font-weight: bold;
+	color: #cc3300;
+	}
+tr.rule { 
+	font-size: 8pt;
+	}
+td.ruleOdd { 
+	padding: 10px;
+	border-bottom: 5px solid #001717;
+	background-color:#344f51;
+	text-align:center
+	}
+td.ruleEven { 
+	padding: 10px;
+	border-bottom: 5px solid #001717;
+	background-color:#253f47;
+	text-align:center
+	}

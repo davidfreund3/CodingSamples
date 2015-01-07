@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//KO" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title> Apex TOEFL Preparation Home Page </title>
+	<meta name="Author" content="Apex TOEFL Preparation">
+	<meta name="description" content="Welcome to Apex TOEFL Preparation">
+<!--#include virtual='common/contextKOR.txt'-->
+    <table>
+    	<tr>
+        	<td colspan="2" width="5000"><center><h1 class="english">Welcome to Apex TOEFL Preparation</h1></center>
+            </td>
+        </tr>
+        <tr>
+        	<td>
+<!--#include virtual='index.txt'-->
+    		</td>
+        </tr>
+    </table>
+<!--#include virtual='common/contextendKOR.txt'-->

@@ -1,0 +1,62 @@
+	    </div>
+		<div id="menuDiv" style="
+			z-index:20;
+			position:fixed;
+			top:250px;
+			background-image:url(common/MenuButtonPushed.jpg);
+			background-repeat: no-repeat;
+			background-position: -1000px -1000px;
+			left:0px;"
+		>
+			<ul id="verticalmenu" class="menu">
+			<li><a href="index.shtml">소개</a></li>
+			<li><a href="method.shtml" >수업</a></li>
+			<li><a href="classes.shtml">강의시간표</a></li>
+			<li><a href="teachers.shtml">강사진</a></li>
+	<!--
+			<li><a href="facilities.shtml">시설</a></li>
+			<li><a href="#">for Students</a>
+				<ul>
+				<li><a href="http://www.javascriptkit.com/jsref/">JavaScript Reference</a></li>
+				<li><a href="http://www.javascriptkit.com/domref/">DOM Reference</a></li>
+				<li><a href="http://www.javascriptkit.com/dhtmltutors/cssreference.shtml">CSS Reference</a></li>
+				</ul>
+			</li>
+			<li><a href="#" >for Parents</a>
+				<ul>
+				<li><a href="http://www.dynamicdrive.com">Dynamic HTML</a></li>
+				<li><a href="http://www.codingforums.com">Coding Forums</a></li>
+				<li><a href="http://www.cssdrive.com">CSS Drive</a></li>
+				<li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
+				<li><a href="http://tools.dynamicdrive.com/imageoptimizer/">Image Optimizer</a></li>
+				<li><a href="http://tools.dynamicdrive.com/favicon/">Favicon Generator</a></li>
+				</ul>
+			</li>
+	-->
+			</ul>
+		</div>
+			</div>
+		</div>
+    </div>
+</div>
+</body>
+<script type="text/javascript">
+	window.onresize = positionMenuDiv;
+	function positionMenuDiv(){
+		document.getElementById('menuDiv').style.left=document.documentElement.clientWidth<1280?"0px":((document.documentElement.clientWidth-1280)/2)+"px";
+	}
+	positionMenuDiv();
+</script>
+<!--[if lte IE 6]>
+	<script type="text/javascript">
+		document.getElementById('menuDiv').style.position="absolute";
+		document.getElementById('menuDiv').style.top="50px";
+		window.onresize = "";
+	</script>
+<![endif]-->
+<!--[if lt IE 6]>
+	<script type="text/javascript">
+		document.getElementById('menuDiv').style.top="50px";
+	</script>
+<![endif]-->
+</html>
